@@ -1,0 +1,2 @@
+Prefix plugins/MaskingNoise/example/
+Plugin MaskingNoise inputfile MNIST_data outputfile none
